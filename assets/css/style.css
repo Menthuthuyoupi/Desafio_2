@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&display=swap');
+
+.encabezado{
+    height: 250px;
+    background-image: url("../imgs/imagen-header.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.8;
+}
+
+
+.titulo_principal{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 50px;
+    text-align: left;
+    color:rgb(255, 255, 255);
+}
+
+section{
+    
+    background: linear-gradient(290deg,#ffffff,#010002);
+}
+
+table{
+
+    width:100%;
+}
+
+th {
+
+    width:50%;
+}
+
+
+.size_imagen{
+
+    width: 75%;
+    padding: 50px 50px;
+}
+
+.texto{
+
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:oblique;
+    text-align:justify;
+    font-size: 20px;
+    padding: 100px;
+}
+
+footer {
+    color: gold;
+    background: linear-gradient(to right,#7bece2,#4606d9);
+    height: 30px;
+}
